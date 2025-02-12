@@ -1,1 +1,2 @@
-# R-Tutorials
+# R
+R tutorials
